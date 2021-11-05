@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Order_Multi_screen</string>
+    <string name="Item1st">Item 1</string>
+    <string name="Item2nd">Item 2</string>
+    <string name="Item3rd">Item 3</string>
+    <string name="Place_Order">Place Order</string>
+</resources>
